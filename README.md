@@ -1,14 +1,20 @@
 <div align="center">
+
 <!-- Animated header banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3557,100:0ea5e9&height=200&section=header&text=Shivanshu%20Yadav&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%26%20Engineering%20%E2%80%A2%20VIT%20Vellore&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Building+foundations+in+CS+%F0%9F%8F%97%EF%B8%8F;Learning+DSA+%26+Problem+Solving+%F0%9F%A7%A0;Exploring+Web+Development+%F0%9F%8C%90;One+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Building+foundations+in+CS;Learning+DSA+%26+Problem+Solving;Exploring+Web+Development;One+commit+at+a+time" />
 </a>
+
 <br/>
-<!-- Social badges -->
+
+<!-- Social badges (FIXED) -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shivanshuyadav921.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a3557?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivanshu-yadav)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivanshuy921@gmail.com)
+
 </div>
 ---
  
