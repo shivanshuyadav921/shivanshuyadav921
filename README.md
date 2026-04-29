@@ -7,7 +7,8 @@
 </a>
 <br/>
 <!-- Social badges -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://shivanshuyadav921.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shivanshuyadav921.github.io/portfolio/)
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivanshuy921@gmail.com)
  
 </div>
