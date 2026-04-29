@@ -1,16 +1,12 @@
 <div align="center">
 
-<!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3557,100:0ea5e9&height=200&section=header&text=Shivanshu%20Yadav&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%26%20Engineering%20%E2%80%A2%20VIT%20Vellore&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<h1>Hi there, I'm Shivanshu Yadav 👋</h1>
+<h3>Computer Science & Engineering Student • VIT Vellore • Class of 2028</h3>
 
-<!-- Typing animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Building+foundations+in+CS+%F0%9F%8F%97%EF%B8%8F;Learning+DSA+%26+Problem+Solving+%F0%9F%A7%A0;Exploring+Web+Development+%F0%9F%8C%90;One+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Building+foundations+in+CS+%F0%9F%8F%97%EF%B8%8F;Learning+DSA+%26+Problem+Solving+%F0%9F%A7%A0;Exploring+Web+Development+%F0%9F%8C%90;One+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
-<!-- Social badges -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://shivanshuyadav921.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivanshu-yadav-49364b3ba)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivanshuy921@gmail.com)
@@ -90,7 +86,7 @@ class ShivanshuYadav:
 - A growing collection of programs focused on solidifying core programming logic
 - Covers loops, arrays, functions, and problem-solving patterns in C and Python
 - Each program is written, tested, and incrementally improved as new concepts are learned
-- 🔗 **Repo:** *(Add your repo link here)*
+
 
 ---
 
@@ -101,10 +97,8 @@ class ShivanshuYadav:
 <img src="https://github-readme-stats.vercel.app/api?username=shivanshuyadav921&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshuyadav921&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 
-</div>
-
-<div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivanshuyadav921&theme=tokyonight&hide_border=true" height="160"/>
+
 </div>
 
 ---
@@ -123,7 +117,5 @@ class ShivanshuYadav:
 <div align="center">
 
 **"The expert in anything was once a beginner."**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1a3557&height=100&section=footer" width="100%"/>
 
 </div>
