@@ -1,121 +1,98 @@
-<div align="center">
+<h1 align="center">Hi, I'm Shivanshu Yadav 👋</h1>
 
-<h1>Hi there, I'm Shivanshu Yadav 👋</h1>
-<h3>Computer Science & Engineering Student • VIT Vellore • Class of 2028</h3>
+<p align="center">
+  <b>AI/ML Researcher · Backend Engineer · VIT Vellore, Class of 2028</b>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Building+foundations+in+CS+%F0%9F%8F%97%EF%B8%8F;Learning+DSA+%26+Problem+Solving+%F0%9F%A7%A0;Exploring+Web+Development+%F0%9F%8C%90;One+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://shivanshuyadav921.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivanshu-yadav-49364b3ba)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivanshuy921@gmail.com)
-
-</div>
-
----
-
-## 👋 About Me
-
-```python
-class ShivanshuYadav:
-    def __init__(self):
-        self.name        = "Shivanshu Yadav"
-        self.role        = "CSE Student @ VIT Vellore"
-        self.location    = "Baddi, Himachal Pradesh 🏔️"
-        self.graduation  = 2028
-        self.focus       = ["Data Structures", "Problem Solving", "Web Development"]
-        self.philosophy  = "Consistency over intensity. Fundamentals first."
-
-    def current_goal(self):
-        return "Build strong CS foundations and grow into a skilled developer 🎯"
-```
+<p align="center">
+  <a href="https://shivanshuyadav921.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=flat&logo=Google-Chrome&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/shivanshu-yadav-49364b3ba">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:shivanshuy921@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## About me
 
-<div align="center">
+I'm a 2nd-year CS student at VIT Vellore focused on **AI/ML research** and **backend engineering**. My current work sits at the intersection of Retrieval-Augmented Generation, small language model reasoning, and explainability.
+
+- 🔬 Researching **TraceRAG** — an agentic RAG pipeline with structured attribution traces trained via GRPO on Phi-3-Mini
+- 📄 3 independent preprints published on Zenodo (2026) covering RAG systems, multilingual hallucination detection, and semantic parsing
+- 🛠️ Building **Flowint** — an AI-powered mock interview platform with multi-LLM orchestration, FastAPI backend, and ChromaDB semantic retrieval
+- 🎯 Competing in AI hackathons: Samsung EnnovateX AX 2026, Amazon Hackathon, Goldman Sachs Hackathon
+
+---
+
+## Tech stack
 
 **Languages**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+</p>
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+**AI / ML**
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/LoRA%20%2F%20GRPO-8B5CF6?style=flat&logoColor=white" />
+</p>
 
-**Tools & Platforms**
-
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
----
-
-## 📚 Currently Learning
-
-| 📖 Subject | 🎯 Focus Area | 📊 Progress |
-|:---|:---|:---|
-| Data Structures & Algorithms | Arrays, Linked Lists, Recursion | 🟦🟦🟦⬜⬜ In Progress |
-| Database Management Systems | SQL, Normalization | 🟦🟦⬜⬜⬜ Beginner |
-| Operating Systems | Process Management, Memory | 🟦🟦⬜⬜⬜ Beginner |
-| Computer Networks | OSI Model, TCP/IP | 🟦⬜⬜⬜⬜ Starting |
-| Web Development | HTML, CSS, Responsive Design | 🟦🟦🟦⬜⬜ In Progress |
-
----
-
-## 🚀 Projects
-
-### 🔹 Personal Portfolio Website
-> *HTML • CSS • GitHub Pages*
-
-- Designed and deployed a personal portfolio to showcase projects, skills, and contact details
-- Built responsive layouts using CSS Flexbox and media queries for multi-device compatibility
-- Structured semantic HTML5 for accessibility and clean presentation
-- 🔗 **Live:** [shivanshuyadav921.github.io/portfolio](https://shivanshuyadav921.github.io/portfolio/)
+**Backend / Infra**
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
+</p>
 
 ---
 
-### 🔹 Basic Programming Collection *(Learning Phase)*
-> *C • Python*
+## Featured projects
 
-- A growing collection of programs focused on solidifying core programming logic
-- Covers loops, arrays, functions, and problem-solving patterns in C and Python
-- Each program is written, tested, and incrementally improved as new concepts are learned
+### TraceRAG — Agentic RAG with structured reasoning traces
+> Python · FastAPI · ChromaDB · Phi-3-Mini · GRPO · TRL
 
+Agentic RAG pipeline that generates structured attribution traces (retrieval, ranking, grounding) before answer synthesis. Trained via GRPO on Phi-3-Mini; evaluated on TechQA benchmark against standard RAG baselines. Published as preprint on Zenodo.
 
----
+### Flowint — AI mock interview platform
+> FastAPI · Next.js 14 · PostgreSQL · ChromaDB · Docker · OpenAI · Gemini · Groq
 
-## 📈 GitHub Stats
+Full-stack interview prep platform with JWT-auth REST API, multi-LLM fallback orchestration, PDF/DOCX resume parsing, ChromaDB semantic retrieval, and one-command Docker Compose deployment.
 
-<div align="center">
+### ASL sign language classifier
+> Python · TensorFlow · Keras · OpenCV · CNN
 
-<img src="https://github-readme-stats.vercel.app/api?username=shivanshuyadav921&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshuyadav921&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivanshuyadav921&theme=tokyonight&hide_border=true" height="160"/>
-
-</div>
+Trained CNN on a custom 8,000-image dataset covering all 26 ASL characters. Achieved 93.2% test accuracy with data augmentation. Real-time inference via OpenCV.
 
 ---
 
-## 🏆 Approach & Values
+## Research (preprints)
 
-```
-🎯  Fundamentals first — understand before you memorize
-🔁  Consistency > Intensity — small daily progress compounds
-🛠️  Learn by building — theory sticks when applied
-🤝  Openness — every expert was once a beginner
-```
+| Title | Year | Platform |
+|---|---|---|
+| TraceRAG: Structured Attribution Traces for Explainable RAG | 2026 | Zenodo |
+| Hallucination Detection in Hindi & Punjabi LLMs | 2026 | Zenodo |
+| Tree Transducers for Semantic Parsing (GeoQuery / ATIS) | 2026 | Zenodo |
 
 ---
 
-<div align="center">
+## GitHub stats
 
-**"The expert in anything was once a beginner."**
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivanshuyadav921&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshuyadav921&layout=compact&theme=default&hide_border=true" />
+</p>
