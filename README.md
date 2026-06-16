@@ -61,6 +61,8 @@ I'm a 2nd-year CS student at VIT Vellore focused on **AI/ML research** and **bac
 
 ---
 
+
+
 ## Featured projects
 
 ### TraceRAG — Agentic RAG with structured reasoning traces
@@ -91,6 +93,7 @@ Trained CNN on a custom 8,000-image dataset covering all 26 ASL characters. Achi
 ---
 
 ## GitHub stats
+<img width="1440" height="1578" alt="image" src="https://github.com/user-attachments/assets/2c7ba3da-e793-4a22-8547-b1cb95a36c2e" />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shivanshuyadav921&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
