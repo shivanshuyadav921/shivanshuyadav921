@@ -20,7 +20,7 @@
 
 ## About me
 
-I'm a 2nd-year CS student at VIT Vellore focused on **AI/ML research** and **backend engineering**. My current work sits at the intersection of Retrieval-Augmented Generation, small language model reasoning, and explainability.
+I'm a 3nd-year CS student at VIT Vellore focused on **AI/ML research** and **backend engineering**. My current work sits at the intersection of Retrieval-Augmented Generation, small language model reasoning, and explainability.
 
 - 🔬 Researching **TraceRAG** — an agentic RAG pipeline with structured attribution traces trained via GRPO on Phi-3-Mini
 - 📄 3 independent preprints published on Zenodo (2026) covering RAG systems, multilingual hallucination detection, and semantic parsing
